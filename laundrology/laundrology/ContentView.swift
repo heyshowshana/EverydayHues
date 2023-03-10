@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  laundrology
-//
-//  Created by Zuzana Kollarova on 03/03/2023.
-//
-
 import SwiftUI
 
 struct ContentView: View {
